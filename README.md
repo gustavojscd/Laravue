@@ -12,4 +12,5 @@ Criação de cadastro de pessoa.
     - npm install
     - npm run dev
 - Se tiver problemas ao rodar o node, apague a pasta node_modules
+-sql junto ao projeto
 
